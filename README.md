@@ -91,6 +91,9 @@ YELLOW
 ## Solet
 
 **Yes, it's a test wallet that nobody should use!**
+
+_Be stupid at your own pace_
+
 one annual pig hawk exercise leave donate upset table inhale stuff amazing keep prepare impulse master leader help winner prize stage luxury post load
 
 ---
