@@ -86,4 +86,29 @@ Signature: AiwUhProBvrYHUvoJNaXPP2enTwbJvthtwbafNKPszYwLEpZvD6S4xFqUnumzPWnE6z39
 Add token metadata:
 6fEuaENy9uqhGirFsgcr5nHCNNDAy4LcsnqFr2zaHvJE
 Continuous Yellow
-YLW
+YELLOW
+
+## Solet
+
+**Yes, it's a test wallet that nobody should use!**
+one annual pig hawk exercise leave donate upset table inhale stuff amazing keep prepare impulse master leader help winner prize stage luxury post load
+
+---
+
+https://www.youtube.com/watch?v=dmH2oPBk97w
+
+https://github.com/jacobcreech/Token-Creator
+
+https://github.com/WaqasAyubShah/SplToken
+
+Solana Token List
+https://github.com/solana-labs/token-list
+
+Solana Rust - create token
+https://medium.com/coinmonks/how-to-use-solana-token-spl-operations-using-rust-anchor-framework-d2c86fad8162
+
+Solana Token extensions
+https://solana.com/developers/guides/token-extensions/getting-started
+
+Solana Cookbook
+https://solanacookbook.com/gaming/interact-with-tokens.html#create-mint-and-burn-tokens-with-anchor
